@@ -1,0 +1,26 @@
+{
+  "Linear_Regression": {
+    "Heating_Load": {
+      "MAE": 2.1821,
+      "RMSE": 3.0254,
+      "R2": 0.9122
+    },
+    "Cooling_Load": {
+      "MAE": 2.1953,
+      "RMSE": 3.1454,
+      "R2": 0.8932
+    }
+  },
+  "Random_Forest": {
+    "Heating_Load": {
+      "MAE": 0.3528,
+      "RMSE": 0.4903,
+      "R2": 0.9977
+    },
+    "Cooling_Load": {
+      "MAE": 1.076,
+      "RMSE": 1.7382,
+      "R2": 0.9674
+    }
+  }
+}
